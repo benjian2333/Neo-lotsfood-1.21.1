@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "w": {
+      "item": "lotsoffood:sakura_wood"
+    }
+  },
+  "pattern": [
+    "w"
+  ],
+  "result": {
+    "count": 4,
+    "id": "lotsoffood:sakura_plank"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "f": {
+      "tag": "c:foods/cooked_fish"
+    },
+    "t": {
+      "item": "lotsoffood:tranche"
+    }
+  },
+  "pattern": [
+    "t",
+    "f",
+    "t"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:sandpoiss"
+  }
+}

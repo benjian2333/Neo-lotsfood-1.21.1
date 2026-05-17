@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "minecraft:carrot"
+    },
+    "e": {
+      "item": "minecraft:egg"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "cmc",
+    "ese",
+    "www"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:carrotcake"
+  }
+}

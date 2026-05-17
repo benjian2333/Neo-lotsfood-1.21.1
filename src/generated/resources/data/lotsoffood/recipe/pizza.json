@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "f": {
+      "item": "lotsoffood:fromage"
+    },
+    "p": {
+      "item": "minecraft:porkchop"
+    },
+    "t": {
+      "item": "lotsoffood:tomate"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " f ",
+    "fpf",
+    "wtw"
+  ],
+  "result": {
+    "count": 8,
+    "id": "lotsoffood:pizza"
+  }
+}

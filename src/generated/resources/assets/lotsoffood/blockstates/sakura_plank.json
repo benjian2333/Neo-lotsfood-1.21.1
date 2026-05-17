@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "lotsoffood:block/sakura_plank_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "lotsoffood:block/sakura_plank"
+    },
+    "axis=z": {
+      "model": "lotsoffood:block/sakura_plank_horizontal",
+      "x": 90
+    }
+  }
+}

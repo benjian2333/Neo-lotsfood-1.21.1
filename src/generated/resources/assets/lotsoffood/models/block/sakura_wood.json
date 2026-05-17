@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "lotsoffood:block/sakura_wood_top",
+    "side": "lotsoffood:block/sakura_wood_side"
+  }
+}

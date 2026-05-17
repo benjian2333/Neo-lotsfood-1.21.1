@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "lotsoffood:chocolate"
+    }
+  },
+  "pattern": [
+    "ccc",
+    "ccc",
+    "ccc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:chocobloc"
+  }
+}

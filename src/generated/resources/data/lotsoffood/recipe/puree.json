@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "minecraft:bowl"
+    },
+    "p": {
+      "item": "minecraft:baked_potato"
+    }
+  },
+  "pattern": [
+    "p",
+    "p",
+    "b"
+  ],
+  "result": {
+    "count": 2,
+    "id": "lotsoffood:puree"
+  }
+}

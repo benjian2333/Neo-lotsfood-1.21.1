@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chevalcru": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lotsoffood:chevalcru"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lotsoffood:chevalcuit_from_smelting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_chevalcru"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lotsoffood:chevalcuit_from_smelting"
+    ]
+  }
+}

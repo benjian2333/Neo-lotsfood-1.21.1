@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    "g g",
+    " g "
+  ],
+  "result": {
+    "count": 3,
+    "id": "lotsoffood:glasscup"
+  }
+}

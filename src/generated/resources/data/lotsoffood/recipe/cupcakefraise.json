@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "f": {
+      "item": "lotsoffood:fraisecake"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "pfp",
+    " p "
+  ],
+  "result": {
+    "count": 8,
+    "id": "lotsoffood:cupcakefraise"
+  }
+}

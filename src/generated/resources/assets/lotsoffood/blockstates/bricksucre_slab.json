@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lotsoffood:block/bricksucre_slab"
+    },
+    "type=double": {
+      "model": "lotsoffood:block/bricksucre"
+    },
+    "type=top": {
+      "model": "lotsoffood:block/bricksucre_slab_top"
+    }
+  }
+}

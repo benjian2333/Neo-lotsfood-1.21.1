@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_glasscup": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lotsoffood:glasscup"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lotsoffood:milkshakechoco"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_glasscup"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lotsoffood:milkshakechoco"
+    ]
+  }
+}

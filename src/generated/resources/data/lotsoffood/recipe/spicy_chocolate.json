@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lotsoffood:chili"
+    },
+    {
+      "item": "lotsoffood:chocolate"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:spicy_chocolate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "lotsoffood:cherry"
+    },
+    "e": {
+      "item": "minecraft:egg"
+    },
+    "h": {
+      "item": "lotsoffood:chocolate"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "cmc",
+    "ehe",
+    "www"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:blackforestcake"
+  }
+}

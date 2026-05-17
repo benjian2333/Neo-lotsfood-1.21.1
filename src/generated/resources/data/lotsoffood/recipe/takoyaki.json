@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/cooked_fish"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "lotsoffood:calamarcru"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "lotsoffood:takoyaki"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lotsoffood:block/chocobloc_slab"
+    },
+    "type=double": {
+      "model": "lotsoffood:block/chocobloc"
+    },
+    "type=top": {
+      "model": "lotsoffood:block/chocobloc_slab_top"
+    }
+  }
+}

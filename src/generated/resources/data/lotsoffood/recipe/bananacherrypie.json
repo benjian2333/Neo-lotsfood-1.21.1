@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "lotsoffood:banane"
+    },
+    "c": {
+      "item": "lotsoffood:cherry"
+    },
+    "g": {
+      "item": "lotsoffood:glacechoco"
+    },
+    "r": {
+      "item": "lotsoffood:glaceraisin"
+    },
+    "v": {
+      "item": "lotsoffood:glacevanille"
+    }
+  },
+  "pattern": [
+    "ccc",
+    "gvr",
+    " b "
+  ],
+  "result": {
+    "count": 3,
+    "id": "lotsoffood:bananacherrypie"
+  }
+}

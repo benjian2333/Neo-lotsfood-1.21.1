@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "lotsoffood:glasscup"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:apple_juice"
+  }
+}

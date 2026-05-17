@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "minecraft:beef"
+    },
+    "w": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "pattern": [
+    "www",
+    "wbw",
+    "www"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:steaktartare"
+  }
+}

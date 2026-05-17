@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "lotsoffood:block/cocobloc",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "lotsoffood:block/cocobloc"
+    },
+    "facing=south": {
+      "model": "lotsoffood:block/cocobloc",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lotsoffood:block/cocobloc",
+      "y": 270
+    }
+  }
+}

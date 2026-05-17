@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "lotsoffood:chocolate"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "pattern": [
+    "ccc",
+    "cmc",
+    "ccc"
+  ],
+  "result": {
+    "count": 8,
+    "id": "lotsoffood:white_chocolate"
+  }
+}

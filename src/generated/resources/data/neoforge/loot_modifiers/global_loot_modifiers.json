@@ -1,0 +1,18 @@
+{
+  "entries": [
+    "lotsoffood:chili_seeds_to_short_grass",
+    "lotsoffood:chili_seeds_to_tall_grass",
+    "lotsoffood:tomate_seeds_to_short_grass",
+    "lotsoffood:tomate_seeds_to_tall_grass",
+    "lotsoffood:strawberry_to_tall_grass",
+    "lotsoffood:strawberry_to_short_grass",
+    "lotsoffood:banane_to_jungle_leaves",
+    "lotsoffood:vanille_to_birch_leaves",
+    "lotsoffood:grape_to_acacia_leaves",
+    "lotsoffood:cafebeans_to_spruce_leaves",
+    "lotsoffood:chevalcru_from_horse",
+    "lotsoffood:calamarcru_from_squid",
+    "lotsoffood:calamarcru_from_glow_squid"
+  ],
+  "replace": false
+}

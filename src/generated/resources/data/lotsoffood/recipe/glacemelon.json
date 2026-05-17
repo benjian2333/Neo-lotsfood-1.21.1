@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "lotsoffood:glasscup"
+    },
+    "m": {
+      "item": "minecraft:melon"
+    },
+    "s": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "pattern": [
+    "sss",
+    "mmm",
+    " g "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:glacemelon"
+  }
+}

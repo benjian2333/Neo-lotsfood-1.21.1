@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "b": {
+      "item": "lotsoffood:chocobloc"
+    },
+    "s": {
+      "item": "lotsoffood:chocolate"
+    }
+  },
+  "pattern": [
+    "bsb",
+    "bsb"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:chocobloc_fence_gate"
+  }
+}

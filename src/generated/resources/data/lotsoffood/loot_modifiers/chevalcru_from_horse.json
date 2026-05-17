@@ -1,0 +1,14 @@
+{
+  "type": "lotsoffood:add_item",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:horse"
+      }
+    }
+  ],
+  "item": "lotsoffood:chevalcru",
+  "max": 3
+}

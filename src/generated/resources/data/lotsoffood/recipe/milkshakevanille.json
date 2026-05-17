@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "lotsoffood:glasscup"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "v": {
+      "item": "lotsoffood:vanille"
+    }
+  },
+  "pattern": [
+    "vmv",
+    " g "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:milkshakevanille"
+  }
+}

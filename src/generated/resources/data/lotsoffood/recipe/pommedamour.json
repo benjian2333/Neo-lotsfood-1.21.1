@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:apple"
+    },
+    "c": {
+      "item": "lotsoffood:caramel"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " c ",
+    "cac",
+    " s "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:pommedamour"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "lotsoffood:caramel"
+    },
+    "o": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "pattern": [
+    " c ",
+    "coc",
+    " c "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:porcaramel"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "lotsoffood:glasscup"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "s": {
+      "item": "lotsoffood:strawberry"
+    }
+  },
+  "pattern": [
+    "sms",
+    " g "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:milkshakefraise"
+  }
+}

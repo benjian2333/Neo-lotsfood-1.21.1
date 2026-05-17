@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "lotsoffood:block/blackforestcake_block_bite0"
+    },
+    "bites=1": {
+      "model": "lotsoffood:block/blackforestcake_block_bite1"
+    },
+    "bites=2": {
+      "model": "lotsoffood:block/blackforestcake_block_bite2"
+    },
+    "bites=3": {
+      "model": "lotsoffood:block/blackforestcake_block_bite3"
+    },
+    "bites=4": {
+      "model": "lotsoffood:block/blackforestcake_block_bite4"
+    },
+    "bites=5": {
+      "model": "lotsoffood:block/blackforestcake_block_bite5"
+    },
+    "bites=6": {
+      "model": "lotsoffood:block/blackforestcake_block_bite6"
+    }
+  }
+}

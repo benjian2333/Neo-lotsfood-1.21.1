@@ -1,0 +1,26 @@
+
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "lotsoffood:block/chococake_block_side",
+    "bottom": "lotsoffood:block/chococake_block_bottom",
+    "top": "lotsoffood:block/chococake_block_top",
+    "side": "lotsoffood:block/chococake_block_side",
+    "inner": "lotsoffood:block/chococake_block_inner"
+  },
+  "elements": [
+    {
+      "from": [7, 0, 1],
+      "to": [15, 8, 15],
+      "faces":
+      {
+        "down": {"uv": [7, 1, 15, 15], "texture": "#bottom", "cullface": "down"},
+        "up": {"uv": [7, 1, 15, 15], "texture": "#top"},
+        "north": {"uv": [1, 8, 9, 16], "texture": "#side"},
+        "south": {"uv": [9, 8, 1, 16], "texture": "#side"},
+        "west": {"uv": [1, 8, 15, 16], "texture": "#inner"},
+        "east": {"uv": [1, 8, 15, 16], "texture": "#side"}
+      }
+    }
+  ]
+}

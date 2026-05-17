@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "item": "lotsoffood:maple_diamond"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "m",
+    "m",
+    "s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:maple_sword"
+  }
+}

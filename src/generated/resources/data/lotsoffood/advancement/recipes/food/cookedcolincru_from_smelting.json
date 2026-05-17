@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_colincru": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lotsoffood:colincru"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lotsoffood:cookedcolincru_from_smelting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_colincru"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lotsoffood:cookedcolincru_from_smelting"
+    ]
+  }
+}

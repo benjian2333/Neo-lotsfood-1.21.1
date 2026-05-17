@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_seaufromage": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lotsoffood:seaufromage"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lotsoffood:fromage_from_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_seaufromage"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lotsoffood:fromage_from_smoking"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "x": {
+      "item": "lotsoffood:caram"
+    }
+  },
+  "pattern": [
+    "xxx"
+  ],
+  "result": {
+    "count": 6,
+    "id": "lotsoffood:caram_slab"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "feature": "lotsoffood:lime_maple_wood",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:weighted_list",
+        "distribution": [
+          {
+            "data": 0,
+            "weight": 49
+          },
+          {
+            "data": 1,
+            "weight": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:surface_water_depth_filter",
+      "max_water_depth": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "lotsoffood:tree_safety_filter",
+      "check_below": false,
+      "check_range": 8
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

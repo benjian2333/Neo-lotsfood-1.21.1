@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lotsoffood:maple_diamond_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "lotsoffood:maple_diamond"
+  }
+}

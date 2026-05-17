@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "f": {
+      "item": "lotsoffood:fromage"
+    },
+    "t": {
+      "item": "lotsoffood:tranche"
+    }
+  },
+  "pattern": [
+    "t",
+    "f",
+    "t"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:sandfrom"
+  }
+}

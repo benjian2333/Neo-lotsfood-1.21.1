@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "c": {
+      "item": "lotsoffood:caram"
+    },
+    "s": {
+      "item": "lotsoffood:caramel"
+    }
+  },
+  "pattern": [
+    "csc",
+    "csc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:caram_fence_gate"
+  }
+}

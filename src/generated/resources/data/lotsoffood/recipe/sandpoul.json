@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "t": {
+      "item": "lotsoffood:tranche"
+    }
+  },
+  "pattern": [
+    "t",
+    "c",
+    "t"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:sandpoul"
+  }
+}

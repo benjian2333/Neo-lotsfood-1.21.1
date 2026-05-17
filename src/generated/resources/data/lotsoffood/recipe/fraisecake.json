@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "s": {
+      "item": "lotsoffood:strawberry"
+    },
+    "v": {
+      "item": "lotsoffood:vanille"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "sss",
+    "mvm",
+    "www"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:fraisecake"
+  }
+}

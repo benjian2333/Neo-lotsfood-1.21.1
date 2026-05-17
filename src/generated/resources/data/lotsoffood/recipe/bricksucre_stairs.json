@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "lotsoffood:bricksucre"
+    }
+  },
+  "pattern": [
+    "b  ",
+    "bb ",
+    "bbb"
+  ],
+  "result": {
+    "count": 4,
+    "id": "lotsoffood:bricksucre_stairs"
+  }
+}

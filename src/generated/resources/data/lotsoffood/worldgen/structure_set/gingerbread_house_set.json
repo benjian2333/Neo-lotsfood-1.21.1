@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 783216409,
+    "separation": 30,
+    "spacing": 50
+  },
+  "structures": [
+    {
+      "structure": "lotsoffood:gingerbread_house",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "minecraft:porkchop"
+    },
+    "t": {
+      "item": "lotsoffood:tranche"
+    }
+  },
+  "pattern": [
+    "t",
+    "p",
+    "t"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:sandjamb"
+  }
+}

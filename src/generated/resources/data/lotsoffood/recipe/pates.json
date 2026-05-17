@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "minecraft:bowl"
+    },
+    "c": {
+      "item": "lotsoffood:corn"
+    },
+    "e": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "cec",
+    " b "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:pates"
+  }
+}

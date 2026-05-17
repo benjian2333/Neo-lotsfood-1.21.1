@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "lotsoffood:bricksucre"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "bsb",
+    "bsb"
+  ],
+  "result": {
+    "count": 2,
+    "id": "lotsoffood:bricksucre_fence_gate"
+  }
+}

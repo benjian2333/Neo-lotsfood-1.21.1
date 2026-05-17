@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_maple_leaves_red": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lotsoffood:maple_leaves_red"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lotsoffood:leaves_red_fast"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_maple_leaves_red"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lotsoffood:leaves_red_fast"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "lotsoffood:block/chocobloc",
+    "side": "lotsoffood:block/chocobloc",
+    "top": "lotsoffood:block/chocobloc"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": {
+      "item": "minecraft:egg"
+    },
+    "f": {
+      "item": "lotsoffood:fromage"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "eme",
+    "fff",
+    "www"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:cheesecake"
+  }
+}

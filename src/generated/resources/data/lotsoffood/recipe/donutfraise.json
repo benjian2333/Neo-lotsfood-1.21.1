@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": {
+      "item": "minecraft:egg"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    },
+    "t": {
+      "item": "lotsoffood:strawberry"
+    },
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "sss",
+    "tet",
+    "www"
+  ],
+  "result": {
+    "count": 2,
+    "id": "lotsoffood:donutfraise"
+  }
+}

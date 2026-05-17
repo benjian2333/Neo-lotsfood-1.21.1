@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lotsoffood:pates"
+    },
+    {
+      "item": "lotsoffood:fromage"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:porkchop"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "lotsoffood:patecarbonara"
+  }
+}
